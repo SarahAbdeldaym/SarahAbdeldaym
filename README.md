@@ -23,12 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.instagram.com/sarahabdeldaim/?hl=en">
-  <img align="left" alt="SarahAbdeldaym's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/abdeldaym_sarah">
-  <img align="left" alt="SarahAbdeldaym Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/sarah-abd-eldaym-594368183/">
   <img align="left" alt="SarahAbdeldaym's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
@@ -47,13 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br />
 <br />
 <br /> 
-  
-#### if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/sarahabdeldaym" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-<br />
 <br /> 
   
 📈 my github stats
